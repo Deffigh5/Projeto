@@ -3,6 +3,10 @@
     padding: 0;
 }
 
+body{
+    font-family: 'Open Sans', sans-serif;
+}
+
 .cabecalho {
     background-color: #3E2C00;
     color: white;
@@ -41,6 +45,18 @@
 
 .escola-titulo{
     padding: 24px 0;
+}
+
+.estudante-imagem{
+    width: 120px;
+}
+
+.estudante-icone{
+    width: 24px;
+}
+
+.estudante-div{
+    text-align: center;
 }
 
 
